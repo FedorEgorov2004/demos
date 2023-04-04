@@ -1,5 +1,5 @@
 # Python demos
-Python cool demos using PIL.
+Cool demos using Pillow module
 
 
 **Grid generator**
